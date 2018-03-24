@@ -132,6 +132,14 @@ input[type=text] {
 .inputlarge[type=text] {
     width: 120px;
 }
+.inputlargeonyellow[type=text] {
+    width: 120px;
+    background-color: #cccf60;
+}
+.inputlargeonyellowp[type=password] {
+    width: 120px;
+    background-color: #cccf60;
+}
 input[type=datetime] {
     width: 120px;
 }
